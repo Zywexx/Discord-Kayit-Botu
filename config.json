@@ -1,0 +1,12 @@
+{
+  "token": "BOT_TOKENINIZ",
+  "prefix": ".",
+  "kayitsizRol": "KAYITSIZ_ROL_ID",
+  "erkekRol": "ERKEK_ROL_ID",
+  "kizRol": "KIZ_ROL_ID",
+  "kayitYetkiliRol": "YETKILI_ROL_ID",
+  "kayitKanal": "KAYIT_KANAL_ID",
+  "logKanal": "LOG_KANAL_ID",
+  "welcomeKanal": "WELCOME_KANAL_ID",
+  "dmKayitsiz": true
+}
