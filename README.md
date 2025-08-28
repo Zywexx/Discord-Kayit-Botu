@@ -83,7 +83,7 @@
 
 ## 👑 Bot Sahibi & Destek
 
-* 👤 **Bot Sahibi:** By Zywexx
+* 👤 **Bot Sahibi:** Zywexx
 * 🌐 **Discord Sunucusu:** [Katılmak için tıkla](https://discord.gg/YAEjW6drVY)
 
 ---
